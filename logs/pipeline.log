@@ -1,0 +1,560 @@
+2025-08-14 21:12:41,736 | INFO | Data shape: (6819, 96)
+2025-08-14 21:12:41,749 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:12:43,867 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:12:43,948 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:12:43,948 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:12:43,948 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:12:43,956 | INFO | Step 1 complete. Artifacts -> artifacts
+2025-08-14 21:25:33,083 | INFO | Data shape: (6819, 96)
+2025-08-14 21:25:33,091 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:25:34,141 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:25:34,248 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:25:34,249 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:25:34,253 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:25:34,253 | INFO | Step 1 complete. Artifacts -> artifacts
+2025-08-14 21:25:34,371 | INFO | Data shape: (6819, 96)
+2025-08-14 21:25:34,371 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:25:34,988 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:25:35,071 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:25:35,072 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:25:35,074 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:25:36,185 | INFO | Selected features: 74 / 95
+2025-08-14 21:25:36,186 | INFO | Artifacts saved -> artifacts\preproc
+2025-08-14 21:25:36,186 | INFO | Steps 1–2 complete. Ready for Step 3 (models + tuning).
+2025-08-14 21:31:18,828 | INFO | Data shape: (6819, 96)
+2025-08-14 21:31:18,837 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:31:19,971 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:31:20,109 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:31:20,111 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:31:20,112 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:31:20,112 | INFO | Step 1 complete. Artifacts -> artifacts
+2025-08-14 21:31:20,244 | INFO | Data shape: (6819, 96)
+2025-08-14 21:31:20,245 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:31:21,052 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:31:21,168 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:31:21,168 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:31:21,168 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:31:22,633 | INFO | Selected features: 74 / 95
+2025-08-14 21:31:22,634 | INFO | Artifacts saved -> artifacts\preproc
+2025-08-14 21:31:22,634 | INFO | Steps 1–2 complete. Ready for Step 3 (models + tuning).
+2025-08-14 21:32:41,355 | INFO | Data shape: (6819, 96)
+2025-08-14 21:32:41,357 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:32:42,114 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:32:42,171 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:32:42,187 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:32:42,192 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:32:42,192 | INFO | Step 1 complete. Artifacts -> artifacts
+2025-08-14 21:32:42,299 | INFO | Data shape: (6819, 96)
+2025-08-14 21:32:42,301 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:32:42,852 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:32:42,919 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:32:42,919 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:32:42,919 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:32:43,868 | INFO | Selected features: 74 / 95
+2025-08-14 21:32:43,868 | INFO | Artifacts saved -> artifacts\preproc
+2025-08-14 21:32:43,868 | INFO | Steps 1–2 complete. Ready for Step 3 (models + tuning).
+2025-08-14 21:32:44,323 | INFO | Data shape: (6819, 96)
+2025-08-14 21:32:44,325 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:32:44,913 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:32:44,966 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:32:44,966 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:32:44,966 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:32:45,988 | INFO | Selected features: 74 / 95
+2025-08-14 21:32:45,988 | INFO | Preprocessing artifacts saved -> artifacts\preproc
+2025-08-14 21:40:46,443 | INFO | Data shape: (6819, 96)
+2025-08-14 21:40:46,459 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:40:47,200 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:40:47,268 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:40:47,279 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:40:47,279 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:40:47,279 | INFO | Step 1 complete. Artifacts -> artifacts
+2025-08-14 21:40:47,368 | INFO | Data shape: (6819, 96)
+2025-08-14 21:40:47,384 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:40:47,926 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:40:47,992 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:40:47,992 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:40:47,992 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:40:49,002 | INFO | Selected features: 74 / 95
+2025-08-14 21:40:49,002 | INFO | Artifacts saved -> artifacts\preproc
+2025-08-14 21:40:49,002 | INFO | Steps 1–2 complete. Ready for Step 3 (models + tuning).
+2025-08-14 21:40:49,279 | INFO | Data shape: (6819, 96)
+2025-08-14 21:40:49,279 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:40:49,893 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:40:49,970 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:40:49,971 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:40:49,974 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:40:51,004 | INFO | Selected features: 74 / 95
+2025-08-14 21:40:51,004 | INFO | Preprocessing artifacts saved -> artifacts\preproc
+2025-08-14 21:53:27,610 | INFO | Data shape: (6819, 96)
+2025-08-14 21:53:27,626 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:53:28,374 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:53:28,442 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:53:28,442 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:53:28,450 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:53:28,450 | INFO | Step 1 complete. Artifacts -> artifacts
+2025-08-14 21:53:28,550 | INFO | Data shape: (6819, 96)
+2025-08-14 21:53:28,550 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:53:29,062 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:53:29,116 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:53:29,116 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:53:29,116 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:53:30,217 | INFO | Selected features: 74 / 95
+2025-08-14 21:53:30,219 | INFO | Artifacts saved -> artifacts\preproc
+2025-08-14 21:53:30,219 | INFO | Steps 1–2 complete. Ready for Step 3 (models + tuning).
+2025-08-14 21:53:30,499 | INFO | Data shape: (6819, 96)
+2025-08-14 21:53:30,503 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 21:53:31,175 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 21:53:31,242 | INFO | PSI saved -> artifacts\drift\psi_results.csv
+2025-08-14 21:53:31,243 | INFO | PSI summary: moderate=0 | high=0
+2025-08-14 21:53:31,244 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 21:53:32,348 | INFO | Selected features: 74 / 95
+2025-08-14 21:53:32,348 | INFO | Preprocessing artifacts saved -> artifacts\preproc
+2025-08-14 22:32:11,847 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 22:32:11,860 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 22:32:12,962 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 22:33:25,610 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 22:33:25,614 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 22:33:26,678 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 22:33:59,665 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 22:33:59,665 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 22:34:00,414 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 22:40:07,847 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 22:40:07,853 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 22:40:08,837 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 22:40:10,848 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-14 22:40:10,851 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 22:40:11,948 | INFO | Selected features: 74 / 95
+2025-08-14 22:40:11,948 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-14 22:44:41,800 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-14 22:44:42,579 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-14 22:44:43,298 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-14 22:44:43,301 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-14 22:44:43,303 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-14 22:49:50,688 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 22:49:50,693 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 22:49:51,812 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 22:49:54,415 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-14 22:49:54,415 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 22:49:55,491 | INFO | Selected features: 74 / 95
+2025-08-14 22:49:55,491 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-14 22:53:55,037 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-14 22:53:55,790 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-14 22:53:56,504 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-14 22:53:56,507 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-14 22:54:00,726 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-14 22:55:40,233 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 22:55:40,236 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 22:55:41,021 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 22:55:43,163 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-14 22:55:43,166 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 22:55:44,281 | INFO | Selected features: 74 / 95
+2025-08-14 22:55:44,281 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-14 22:59:54,012 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-14 22:59:54,769 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-14 22:59:55,454 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-14 22:59:55,457 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-14 22:59:58,056 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-14 23:08:13,694 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 23:08:13,698 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 23:08:14,505 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 23:08:16,683 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-14 23:08:16,690 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 23:08:18,286 | INFO | Selected features: 74 / 95
+2025-08-14 23:08:18,286 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-14 23:12:27,475 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-14 23:12:28,188 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-14 23:12:28,944 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-14 23:12:28,946 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-14 23:12:32,061 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-14 23:12:32,061 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-14 23:12:32,061 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-14 23:20:52,366 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 23:20:52,366 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 23:20:53,116 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 23:20:55,400 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-14 23:20:55,405 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 23:20:56,633 | INFO | Selected features: 74 / 95
+2025-08-14 23:20:56,634 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-14 23:24:58,846 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-14 23:24:59,620 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-14 23:25:00,469 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-14 23:25:00,472 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-14 23:25:03,354 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-14 23:25:03,354 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-14 23:25:03,354 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-14 23:32:33,370 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-14 23:32:33,373 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-14 23:32:34,145 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-14 23:32:35,929 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-14 23:32:35,929 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-14 23:32:36,992 | INFO | Selected features: 74 / 95
+2025-08-14 23:32:36,992 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-14 23:36:41,539 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-14 23:36:42,357 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-14 23:36:43,265 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-14 23:36:43,268 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-14 23:36:45,901 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-14 23:36:45,902 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-14 23:36:45,902 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 13:01:01,608 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-15 13:01:01,644 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-15 13:01:04,178 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-15 13:01:06,951 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-15 13:01:06,951 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-15 13:01:08,504 | INFO | Selected features: 74 / 95
+2025-08-15 13:01:08,504 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-15 13:05:57,134 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-15 13:05:58,370 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-15 13:05:59,468 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-15 13:05:59,477 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-15 13:06:05,564 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 13:06:05,564 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-15 13:06:05,564 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 13:23:06,882 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-15 13:23:06,919 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-15 13:23:08,374 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-15 13:23:12,247 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-15 13:23:12,252 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-15 13:23:14,280 | INFO | Selected features: 74 / 95
+2025-08-15 13:23:14,281 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-15 13:28:13,711 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-15 13:28:15,021 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-15 13:28:16,144 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-15 13:28:16,148 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-15 13:28:21,182 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 13:28:21,182 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-15 13:28:21,184 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 13:39:13,442 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-15 13:39:13,450 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-15 13:39:15,698 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-15 13:39:18,676 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-15 13:39:18,676 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-15 13:39:20,224 | INFO | Selected features: 74 / 95
+2025-08-15 13:39:20,224 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-15 21:17:41,984 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-15 21:17:41,993 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-15 21:17:45,510 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-15 21:17:53,045 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-15 21:17:53,065 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-15 21:17:56,085 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-15 21:17:57,828 | INFO | Selected features: 74 / 95
+2025-08-15 21:17:57,828 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-15 21:17:58,893 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-15 21:18:02,696 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-15 21:18:02,703 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-15 21:18:25,287 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 21:18:25,290 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-15 21:18:25,290 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 21:24:08,971 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-15 21:24:12,254 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-15 21:24:15,444 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-15 21:24:15,450 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-15 21:24:25,956 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 21:24:25,956 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
+2025-08-15 21:24:25,963 | INFO | Open the Markdown report: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 21:29:52,152 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-15 21:29:52,159 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-15 21:29:55,111 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-15 21:30:01,152 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-15 21:30:01,164 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-15 21:30:03,749 | INFO | Selected features: 74 / 95
+2025-08-15 21:30:03,750 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-15 21:35:35,079 | INFO | Data shape: (6819, 96) | Loaded from: C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\data.csv
+2025-08-15 21:35:35,083 | INFO | Class distribution -> 0: 6599 (96.77%), 1: 220 (3.23%)
+2025-08-15 21:35:36,556 | INFO | Train: (5455, 95) | Test: (1364, 95) | Train 1s: 3.23% | Test 1s: 3.23%
+2025-08-15 21:35:39,485 | INFO | PSI saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\drift\psi_results.csv | moderate=0 | high=0
+2025-08-15 21:35:39,490 | INFO | Top PSI:
+                                     feature      psi
+                 Operating profit per person 0.020157
+             Working Capital to Total Assets 0.019572
+                              Cash flow rate 0.018993
+ Non-industry income and expenditure/revenue 0.018806
+                   Quick Assets/Total Assets 0.017547
+                      Working Capital/Equity 0.017045
+         Current Liability to Current Assets 0.016758
+    Per Share Net profit before tax (Yuan ¥) 0.016620
+                               Current Ratio 0.016597
+                   Inventory/Working Capital 0.015222
+2025-08-15 21:35:41,220 | INFO | Selected features: 74 / 95
+2025-08-15 21:35:41,220 | INFO | Preprocessing artifacts saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\preproc
+2025-08-15 21:40:58,949 | INFO | logreg -> ROC-AUC test=0.950 | PR-AUC test=0.432 | F1 test=0.306 | Brier test=0.093
+2025-08-15 21:40:59,792 | INFO | rf -> ROC-AUC test=0.954 | PR-AUC test=0.518 | F1 test=0.477 | Brier test=0.024
+2025-08-15 21:41:00,591 | INFO | xgb -> ROC-AUC test=0.957 | PR-AUC test=0.488 | F1 test=0.410 | Brier test=0.026
+2025-08-15 21:41:00,591 | INFO | Comparison table saved -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\evaluation\model_comparison.csv
+2025-08-15 21:41:03,247 | INFO | Report written -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts\report.md
+2025-08-15 21:41:03,247 | INFO | All steps complete. Artifacts -> C:\A_USER_FILES\Artificial\sem-2\AI in Enterprise System\lab_5\artifacts
